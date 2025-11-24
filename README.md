@@ -241,8 +241,6 @@ But **on Raspberry Pi 4 it's 20× slower** due to:
 * heap performance much better
 * sometimes heap can compete when stack does *multiple* copies
 
-Вот улучшенная версия этого раздела с твоей ремаркой — корректной, профессиональной и естественно вписанной в текст:
-
 ---
 
 ## ⚠ Important Note: Single-Threaded Benchmarks
